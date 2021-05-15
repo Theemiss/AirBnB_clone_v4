@@ -131,7 +131,7 @@ TestBaseModel class:
 
 
 ## Examples of use
-<p align="center"><img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/9/62fbb2d674fca4a843458e61cf3b05ee9f68ad04.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210515%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210515T130333Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=42bbc308b76b08a2d89f599e42ed487b5bffe879997b2968ccda99e0707d7ede" alt="final  airbnb"></p>
+<p align="center"><img src="62fbb2d674fca4a843458e61cf3b05ee9f68ad04.jpg" alt="final  airbnb"></p>
 
 ```
 vagrantAirBnB_clone$./console.py
