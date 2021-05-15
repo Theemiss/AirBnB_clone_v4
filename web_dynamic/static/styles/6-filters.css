@@ -101,3 +101,6 @@ button:hover {
 .locations:hover .popover {
     visibility: visible;
 }
+input{
+    margin-right: 10px;
+}
