@@ -1,6 +1,9 @@
 # AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
+<p align="center"><img src="bnb.png" alt="AirBnb  logo"></p>
+
+
 #### Functionalities of this command interpreter:
 * Create a new object (ex: a new User or a new Place)
 * Retrieve an object from a file, a database etc...
@@ -128,6 +131,8 @@ TestBaseModel class:
 
 
 ## Examples of use
+<p align="center"><img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/9/62fbb2d674fca4a843458e61cf3b05ee9f68ad04.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210515%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210515T130333Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=42bbc308b76b08a2d89f599e42ed487b5bffe879997b2968ccda99e0707d7ede" alt="final  airbnb"></p>
+
 ```
 vagrantAirBnB_clone$./console.py
 (hbnb) help
